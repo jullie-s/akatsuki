@@ -4,7 +4,7 @@ Hackathon Repository
 
 **TEAM MEMBERS**
 * Jullie Salgado
-* Sam McDonald 
+* Samuel McDonald 
 * Trinity Taylor 
 * Karlena Hardaway
 * Breyanna Chapman
