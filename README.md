@@ -19,6 +19,5 @@ To create a feature for instagram that preserves culturally significant places i
 ## Resources
 * Cloudy Cluster 
 * pyCharm
-* RepLit
-* Google Cloud 
+* RepLit 
 
